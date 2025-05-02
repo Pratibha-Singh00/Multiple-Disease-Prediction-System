@@ -10,3 +10,4 @@ http://localhost:8502/
 ![image alt](https://github.com/Pratibha-Singh00/Multiple-Disease-Prediction-System/blob/6b8e6db4e91bb8cb3cbcb23e27311f34069af412/Multiple_disease_predict%20-%20Brave%2003-05-2025%2000_32_24.png)
 
 
+![image alt](https://github.com/Pratibha-Singh00/Multiple-Disease-Prediction-System/blob/73f0604fd2a31a99e851a5c4992aa9a06b013b15/Multiple_disease_predict%20-%20Brave%2003-05-2025%2000_32_37.png)
