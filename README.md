@@ -7,6 +7,6 @@ Libraries: • Pandas: for data manipulation and analysis • NumPy: for numeric
 Procedure: • Import the necessary libraries and the diabetic and heart disease datasets. • Split the data into features and target variables. • Split the data into training and testing sets. • Train the model on the training data. • Save the model using the pickle module. • Use Streamlit to create a web application that allows users to input their own data and make predictions using the saved model. • Include a button in the application to process the user input and make predictions.
 http://localhost:8502/
 
-![image alt]([images/screenshot.png](https://github.com/Pratibha-Singh00/Multiple-Disease-Prediction-System/blob/6b8e6db4e91bb8cb3cbcb23e27311f34069af412/Multiple_disease_predict%20-%20Brave%2003-05-2025%2000_32_24.png))
+![image alt]([images/screenshot.png](https://github.com/Pratibha-Singh00/Multiple-Disease-Prediction-System/blob/6b8e6db4e91bb8cb3cbcb23e27311f34069af412/Multiple_disease_predict%20-%20Brave%2003-05-2025%2000_32_24.png)
 
 
